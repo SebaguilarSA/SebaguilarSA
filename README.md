@@ -24,7 +24,7 @@
 - 🤯 I’m looking for help with everything
 - 👾 Pronouns: He / Him
 - 💬 Some info: I have a degree in hospitality and I'm a musician and comic artist.
-- ⚡ Additional Fun fact: I love monkeys 💙🐵 <br>
+- ⚡ Additional Fun fact: I 💙 Cine 🎥 & monkeys 🐵 <br>
 
 <h2 align="left">🧭 How to reach me:</h2>
 
