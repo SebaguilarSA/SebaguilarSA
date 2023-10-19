@@ -28,7 +28,7 @@
 
 <h2 align="left">🧭 How to reach me:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sebah_Aguilar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aguilarsebastian216/)](www.https://www.linkedin.com/in/aguilarsebastian216/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sebah_Aguilar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aguilarsebastian216/)](https://www.linkedin.com/in/aguilarsebastian216)
 <!--
 **SebaguilarSA/SebaguilarSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
