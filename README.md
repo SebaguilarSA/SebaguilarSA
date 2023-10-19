@@ -1,5 +1,9 @@
 ### Hi, Folks ✌😎
 
+<p align= "center">
+<src = "passion-10.gif">
+</p>
+
 - 🔭 I’m a Development Student
 - 🌱 I’m currently learning about HTML; CSS; PYTHON and JAVASCRITP
 - 📫 How to reach me: https://www.linkedin.com/in/aguilarsebastian216/
